@@ -9,7 +9,7 @@ Small businesses often have sales data that's messy and hard to act on with inco
 ## What's Messy in the Data
 Flavor names entered inconsistently (e.g. "RedVelvet", "red velvet", "Red Velvet Cupcake" all referring to the same product)
 Prices stored as text, with inconsistent formatting (some with a dollar signs, some without)
-A handful of clear data-entry errors in price (e.g. a $300 cupcake, a $0.03 cupcake)
+A handful of clear data-entry errors in price (e.g. a 300 dollar cupcake, a 0.03 dollar cupcake)
 Order dates stored in two different formats
 Missing values in both the flavor and quantity columns
 ## Approach
