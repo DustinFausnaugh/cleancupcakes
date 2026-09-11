@@ -1,0 +1,616 @@
+order_date,flavor,quantity,unit_price,customer_note
+2026-02-21,Carrot,9.0,3.78,
+2026-06-15,Vanilla,7.0,$2.7,
+2026-01-28,funfetti,12.0,2.99,birthday order
+2026-02-24,Carrot Cake Cupcake,12.0,3.78,
+2026-04-05,lemon,3.0,3.22,
+2026-04-05,Chocolate Cupcake,8.0,$3.0,wholesale
+2026-03-31,Carrot Cake Cupcake,2.0,$3.84,
+2026-01-30,Vanilla Cupcake,8.0,$2.67,
+2026-01-16,vanilla,12.0,2.73,wholesale
+2026-04-04,Carrot,3.0,$3.68,gift box
+2026-04-06,Red velvet ,11.0,3.49,birthday order
+2026-06-16,lemon,3.0,3.26,birthday order
+2026-06-24,Vanilla Cupcake,2.0,$2.7,
+2026-01-23,,6.0,2.73,gift box
+2026-06-07,vanilla,11.0,2.84,
+2026-03-15,funfetti,12.0,3.0,gift box
+2026-06-06,Vanilla Cupcake,4.0,2.79,
+2026-05-13,,10.0,2.96,
+2026-01-12,RedVelvet,9.0,3.61,
+2026-04-24,Lemon,9.0,$3.25,
+2026-01-27,Fun Fetti,12.0,$2.99,
+2026-04-27,vanilla,12.0,2.76,
+2026-06-04,Choc,4.0,$2.9,
+2026-04-13,Lemon Cupcake,2.0,3.17,gift box
+2026-06-24,Vanilla,4.0,$2.69,
+2026-05-06,Lemon,2.0,3.24,
+2026-01-14,Red Velvet Cupcake,4.0,3.53,birthday order
+03/06/2026,Vanila,7.0,$2.76,gift box
+2026-05-09,,8.0,$3.53,gift box
+01/04/2026,funfetti,12.0,3.02,gift box
+2026-04-12,Funfetti Cupcake,3.0,2.98,wholesale
+2026-04-01,Chocolate Cupcake,3.0,3.04,wholesale
+2026-04-14,Red velvet ,4.0,3.59,wholesale
+2026-06-16,RedVelvet,11.0,3.5,birthday order
+2026-03-19,funfetti,8.0,$2.96,gift box
+2026-04-13,Vanila,2.0,2.71,wholesale
+2026-03-23,Lemon Cupcake,12.0,3.27,
+2026-04-11,Chocolate,5.0,$2.96,gift box
+2026-04-10,vanilla,1.0,2.86,
+2026-02-05,,11.0,3.27,gift box
+2026-02-08,Red velvet ,2.0,3.47,
+2026-01-12,Funfetti Cupcake,1.0,$3.02,gift box
+2026-06-07,Fun Fetti,12.0,$2.93,birthday order
+2026-01-24,Funfetti Cupcake,11.0,3.0,
+03/27/2026,lemon,9.0,$3.29,birthday order
+2026-06-08,Carrot Cake Cupcake,1.0,$3.69,birthday order
+2026-01-18,lemon,,$3.27,wholesale
+2026-01-08,funfetti,12.0,$2.98,
+2026-01-07,Fun Fetti,4.0,$3.01,
+2026-05-23,,2.0,$3.0,
+2026-05-11,Carrot Cake Cupcake,,3.73,
+2026-05-25,Funfetti,2.0,3.0,birthday order
+03/12/2026,Vanila,4.0,$2.82,wholesale
+06/16/2026,Choc,12.0,3.07,gift box
+2026-06-08,Choc,10.0,$3.0,
+2026-05-01,Vanilla Cupcake,,$2.7,gift box
+03/28/2026,Red Velvet Cupcake,2.0,$3.53,birthday order
+2026-02-09,Lemon Cupcake,2.0,$3.17,gift box
+2026-01-20,Funfetti,1.0,$3.01,
+2026-03-25,RedVelvet,8.0,3.51,gift box
+2026-05-08,Lemon,12.0,$3.18,birthday order
+2026-04-06,Funfetti,1.0,2.99,birthday order
+2026-06-13,Vanilla Cupcake,5.0,$2.75,wholesale
+2026-05-19,Red velvet ,2.0,$3.5,
+2026-05-05,Lemon Cupcake,1.0,3.22,gift box
+04/24/2026,Vanila,2.0,2.73,birthday order
+04/18/2026,funfetti,2.0,$3.03,
+2026-03-29,RedVelvet,7.0,3.41,wholesale
+03/17/2026,Funfetti Cupcake,4.0,3.06,birthday order
+2026-06-25,funfetti,8.0,2.96,
+2026-02-08,Chocolate Cupcake,12.0,2.99,birthday order
+2026-02-18,Funfetti,12.0,3.01,
+2026-05-02,Carrot,7.0,$3.77,
+2026-06-19,Vanila,8.0,2.76,
+2026-06-02,Vanila,12.0,2.74,
+06/18/2026,funfetti,,$2.95,
+2026-01-10,Chocolate Cupcake,3.0,3.04,
+2026-06-25,Carrot Cake,10.0,3.83,wholesale
+2026-02-25,red velvet,11.0,3.61,birthday order
+2026-04-28,Fun Fetti,2.0,3.02,
+2026-03-25,Chocolate Cupcake,6.0,$3.05,birthday order
+2026-02-08,Vanilla,10.0,$2.71,gift box
+2026-06-05,Vanilla Cupcake,7.0,$2.74,
+2026-04-24,red velvet,5.0,$3.48,
+2026-04-12,Choc,5.0,$3.07,wholesale
+2026-04-20,Chocolate Cupcake,5.0,2.96,birthday order
+2026-02-03,Vanilla,6.0,2.73,
+2026-01-21,Lemon Cupcake,1.0,$3.24,gift box
+2026-04-23,Lemon,7.0,$3.22,
+2026-04-30,Fun Fetti,3.0,$3.03,
+05/27/2026,Lemon Cupcake,11.0,$3.31,
+2026-04-29,red velvet,8.0,3.46,birthday order
+2026-05-21,vanilla,4.0,$2.67,
+05/21/2026,Carrot Cake,10.0,$3.78,
+2026-02-19,Vanila,12.0,$2.78,
+2026-04-15,Lemon Cupcake,10.0,3.3,birthday order
+2026-03-05,Chocolate Cupcake,2.0,3.01,
+01/16/2026,Carrot,11.0,3.76,gift box
+2026-05-04,Chocolate Cupcake,1.0,3.02,birthday order
+2026-04-14,Carrot,12.0,3.78,
+2026-05-31,Carrot Cake Cupcake,3.0,3.84,birthday order
+2026-02-03,Chocolate Cupcake,6.0,$3.02,
+2026-03-16,Lemon Cupcake,7.0,$3.29,wholesale
+06/04/2026,Vanilla,1.0,$2.78,
+2026-01-18,Vanilla Cupcake,6.0,$2.77,
+2026-04-14,Lemon Cupcake,1.0,$3.28,gift box
+2026-01-05,Lemon Cupcake,6.0,$3.26,
+2026-04-24,Choc,10.0,$3.06,
+2026-06-17,Vanilla,12.0,$2.74,
+2026-06-21,funfetti,5.0,$2.98,birthday order
+2026-01-25,red velvet,9.0,3.48,
+2026-06-03,Lemon,2.0,3.19,birthday order
+02/13/2026,Funfetti Cupcake,3.0,3.02,birthday order
+2026-06-13,Red Velvet,12.0,3.52,wholesale
+2026-05-02,lemon,9.0,3.23,gift box
+02/21/2026,carrot cake,5.0,3.82,gift box
+2026-03-15,Lemon Cupcake,12.0,$3.22,
+2026-02-23,Lemon Cupcake,6.0,3.26,wholesale
+2026-01-21,vanilla,1.0,2.78,
+2026-04-10,lemon,11.0,$3.22,gift box
+2026-05-06,Red velvet ,8.0,3.55,
+2026-03-12,Vanilla,10.0,2.72,
+2026-04-23,lemon,3.0,3.26,
+2026-02-05,Red velvet ,3.0,$3.51,
+2026-04-26,Vanila,2.0,$2.85,gift box
+2026-03-20,Choc,4.0,$2.96,
+03/25/2026,carrot cake,11.0,$3.72,birthday order
+01/14/2026,Vanilla,8.0,$2.77,birthday order
+01/10/2026,vanilla,7.0,2.79,
+2026-05-27,Vanilla,3.0,$2.81,gift box
+2026-05-20,chocolate,1.0,3.03,gift box
+2026-05-19,Carrot Cake,10.0,3.7,
+2026-06-13,funfetti,11.0,$2.98,
+2026-01-08,Choc,8.0,3.06,
+02/19/2026,Chocolate,7.0,$2.95,
+2026-04-24,chocolate,10.0,$2.91,wholesale
+2026-04-09,Chocolate Cupcake,4.0,$3.04,wholesale
+2026-05-04,Vanila,8.0,$2.77,
+2026-06-22,,4.0,3.0,
+03/03/2026,carrot cake,9.0,3.71,
+2026-02-18,red velvet,12.0,$3.4,gift box
+2026-02-16,,6.0,3.58,
+03/26/2026,Red Velvet,2.0,$3.57,
+04/08/2026,Vanilla,7.0,2.66,
+2026-05-22,,4.0,2.95,
+2026-04-05,Lemon Cupcake,3.0,3.18,gift box
+2026-01-13,carrot cake,2.0,$3.73,wholesale
+04/12/2026,Funfetti,7.0,$2.96,wholesale
+04/06/2026,Red velvet ,3.0,$3.46,wholesale
+2026-04-27,Fun Fetti,7.0,$3.0,
+2026-03-17,vanilla,4.0,2.72,
+2026-01-19,lemon,11.0,$3.3,
+2026-02-08,Chocolate,2.0,3.03,
+2026-04-17,Carrot Cake Cupcake,10.0,3.72,
+03/23/2026,Funfetti Cupcake,7.0,2.99,
+2026-01-03,Vanilla,11.0,$2.83,
+2026-06-16,Lemon Cupcake,7.0,3.21,birthday order
+2026-04-16,Vanilla Cupcake,,$2.79,
+2026-03-15,funfetti,12.0,3.0,gift box
+2026-03-09,,11.0,3.7,wholesale
+2026-05-03,vanilla,1.0,2.69,
+2026-02-25,Red Velvet,3.0,$3.46,
+2026-02-01,Red Velvet Cupcake,1.0,$3.55,
+2026-05-02,lemon,4.0,3.3,
+2026-03-26,Funfetti,8.0,3.03,birthday order
+2026-02-22,vanilla,3.0,2.76,birthday order
+2026-03-16,lemon,2.0,$3.29,wholesale
+2026-06-17,Lemon,6.0,$3.25,wholesale
+2026-05-29,Lemon Cupcake,10.0,$3.29,
+2026-04-12,Carrot Cake,11.0,$3.71,birthday order
+2026-06-13,Fun Fetti,6.0,2.98,birthday order
+2026-05-06,Choc,11.0,3.03,
+03/12/2026,RedVelvet,5.0,$3.55,gift box
+2026-06-07,Carrot Cake,9.0,$3.94,wholesale
+03/17/2026,Vanila,7.0,$2.74,
+2026-04-18,Lemon,3.0,3.24,wholesale
+2026-06-16,funfetti,5.0,$2.98,
+2026-02-04,RedVelvet,9.0,$3.46,gift box
+2026-05-28,Vanilla Cupcake,7.0,$2.69,birthday order
+04/26/2026,Carrot Cake Cupcake,7.0,3.79,
+2026-02-12,lemon,12.0,$3.22,birthday order
+01/12/2026,carrot cake,12.0,3.81,birthday order
+2026-05-25,red velvet,12.0,3.5,wholesale
+2026-01-24,Choc,,3.05,wholesale
+2026-06-09,Red velvet ,,$3.4,birthday order
+2026-02-14,Funfetti Cupcake,2.0,$3.03,gift box
+03/22/2026,Lemon Cupcake,,$3.25,gift box
+2026-02-14,Lemon Cupcake,6.0,$3.21,gift box
+04/23/2026,carrot cake,7.0,$3.71,
+2026-06-17,Funfetti,1.0,2.97,
+2026-01-28,Chocolate,3.0,3.01,
+2026-04-26,Lemon,3.0,3.23,gift box
+2026-03-28,Red Velvet Cupcake,1.0,$3.54,birthday order
+2026-02-02,Chocolate Cupcake,9.0,$2.95,wholesale
+2026-06-24,Lemon Cupcake,1.0,3.28,
+2026-04-10,Choc,4.0,3.08,wholesale
+2026-04-13,Lemon,10.0,3.27,
+2026-02-18,Lemon Cupcake,9.0,$3.32,
+2026-01-16,funfetti,9.0,3.03,
+2026-06-03,Carrot Cake Cupcake,5.0,$3.67,
+2026-02-16,Carrot,10.0,$3.72,gift box
+2026-03-27,RedVelvet,2.0,3.49,wholesale
+2026-06-20,Lemon Cupcake,12.0,$3.23,
+2026-06-04,Carrot,9.0,$3.72,
+2026-02-09,lemon,5.0,3.25,gift box
+2026-03-07,RedVelvet,4.0,3.47,birthday order
+2026-05-20,Carrot Cake,7.0,3.77,gift box
+06/02/2026,carrot cake,8.0,3.79,wholesale
+2026-04-19,Red Velvet Cupcake,10.0,3.44,
+2026-03-20,Carrot,12.0,3.78,
+05/16/2026,Chocolate,9.0,2.97,
+2026-05-25,Funfetti,2.0,3.0,birthday order
+2026-03-02,Fun Fetti,6.0,$3.01,
+2026-04-18,Carrot Cake,6.0,$3.78,
+01/15/2026,Carrot,9.0,3.7,wholesale
+2026-04-14,Chocolate,8.0,$3.1,
+06/22/2026,lemon,9.0,3.23,
+2026-05-28,Chocolate Cupcake,6.0,$3.06,
+2026-03-24,Funfetti Cupcake,5.0,$2.96,wholesale
+2026-01-14,Red Velvet Cupcake,9.0,3.48,gift box
+03/03/2026,carrot cake,9.0,3.71,
+2026-02-15,Carrot Cake,11.0,$3.72,
+2026-01-09,Vanilla Cupcake,3.0,$2.67,birthday order
+2026-05-25,Red velvet ,1.0,$3.44,
+2026-05-31,Fun Fetti,12.0,2.95,
+01/11/2026,Choc,10.0,$2.92,birthday order
+2026-05-10,Vanilla Cupcake,7.0,2.68,
+2026-06-21,Vanilla,7.0,2.7,birthday order
+02/03/2026,Carrot,3.0,$3.83,
+2026-06-21,carrot cake,8.0,$3.73,
+2026-04-22,Red Velvet Cupcake,10.0,3.49,
+2026-06-15,Carrot,5.0,3.78,
+2026-03-08,lemon,,3.25,wholesale
+2026-02-14,Carrot Cake Cupcake,7.0,3.79,
+2026-06-07,vanilla,2.0,$2.68,wholesale
+2026-05-02,Funfetti Cupcake,7.0,$3.01,
+2026-02-16,Choc,2.0,$2.89,
+2026-01-15,Choc,3.0,$2.99,
+05/01/2026,Chocolate Cupcake,9.0,2.99,
+2026-03-13,chocolate,3.0,$3.04,birthday order
+2026-05-14,Funfetti,1.0,3.02,birthday order
+2026-05-04,carrot cake,12.0,$300.00,wholesale
+2026-04-25,funfetti,2.0,2.92,gift box
+2026-02-07,funfetti,1.0,$2.95,birthday order
+2026-05-18,Lemon,7.0,3.26,wholesale
+2026-05-31,Vanilla,3.0,2.71,
+06/21/2026,Choc,7.0,$2.91,
+01/28/2026,vanilla,4.0,$2.78,
+2026-05-20,Carrot Cake Cupcake,3.0,3.74,
+2026-02-16,funfetti,12.0,3.01,birthday order
+2026-03-26,Red Velvet,5.0,$3.48,birthday order
+2026-04-15,Funfetti Cupcake,7.0,2.99,
+2026-05-11,Chocolate,4.0,3.05,wholesale
+2026-03-05,Fun Fetti,3.0,3.0,birthday order
+2026-05-11,Vanilla Cupcake,4.0,2.72,wholesale
+2026-02-19,Chocolate Cupcake,5.0,$2.97,
+03/19/2026,Chocolate Cupcake,8.0,3.06,gift box
+2026-02-27,lemon,9.0,$3.26,birthday order
+2026-01-22,carrot cake,1.0,3.79,
+2026-06-25,Vanilla Cupcake,10.0,2.78,
+05/03/2026,funfetti,3.0,$2.92,
+03/07/2026,Vanilla,7.0,$2.77,wholesale
+2026-06-27,Fun Fetti,5.0,$3.04,
+2026-01-19,funfetti,5.0,$2.96,birthday order
+2026-03-01,Fun Fetti,10.0,$3.0,
+2026-06-18,Carrot,8.0,3.79,birthday order
+2026-06-17,Funfetti,2.0,2.96,birthday order
+05/04/2026,vanilla,1.0,2.7,birthday order
+2026-01-22,Chocolate,9.0,$2.97,wholesale
+2026-02-28,Carrot Cake,7.0,3.75,birthday order
+01/19/2026,Red velvet ,2.0,3.51,birthday order
+2026-06-25,Red Velvet Cupcake,12.0,3.44,
+2026-06-12,carrot cake,9.0,3.73,wholesale
+2026-03-04,Red Velvet,10.0,3.51,
+2026-02-18,Red Velvet,11.0,3.43,gift box
+2026-06-07,Carrot Cake Cupcake,8.0,$3.8,wholesale
+2026-01-19,Carrot Cake Cupcake,3.0,$3.81,
+2026-01-08,RedVelvet,6.0,3.45,wholesale
+2026-01-30,Chocolate,1.0,3.0,
+2026-01-22,Vanilla,9.0,$2.68,wholesale
+2026-03-16,Red Velvet,5.0,3.46,gift box
+2026-03-27,Lemon,5.0,$3.27,gift box
+2026-06-15,Choc,6.0,$3.05,
+2026-06-19,carrot cake,7.0,3.59,
+2026-03-31,lemon,6.0,$3.25,
+2026-03-30,Choc,,3.0,wholesale
+05/11/2026,Funfetti,5.0,3.03,
+2026-06-16,Choc,10.0,3.02,
+2026-02-03,Red Velvet Cupcake,9.0,3.41,
+2026-01-17,Carrot,5.0,$3.8,
+2026-06-28,lemon,5.0,$3.33,
+03/16/2026,Fun Fetti,10.0,$3.08,gift box
+05/12/2026,Carrot Cake Cupcake,8.0,$3.83,
+2026-02-08,Carrot Cake,1.0,3.72,
+2026-03-31,Carrot,2.0,$3.69,wholesale
+2026-04-06,Lemon Cupcake,1.0,$3.18,birthday order
+2026-06-26,Choc,7.0,$2.93,
+2026-02-26,Funfetti Cupcake,11.0,3.05,wholesale
+2026-01-12,lemon,4.0,$3.2,
+2026-03-24,carrot cake,8.0,$3.79,gift box
+2026-04-12,Chocolate Cupcake,9.0,2.95,
+2026-02-21,RedVelvet,5.0,$3.48,gift box
+2026-02-10,Funfetti Cupcake,11.0,$3.02,gift box
+04/23/2026,Funfetti,4.0,3.04,birthday order
+04/04/2026,carrot cake,1.0,$3.71,
+2026-02-02,Vanila,7.0,$2.76,
+2026-03-06,Chocolate,12.0,3.07,
+2026-06-15,Vanilla Cupcake,12.0,$2.71,
+02/15/2026,Vanilla,1.0,$2.71,wholesale
+2026-02-19,vanilla,6.0,299,
+06/01/2026,Chocolate Cupcake,1.0,2.96,gift box
+2026-03-24,red velvet,1.0,3.51,
+2026-01-24,Chocolate Cupcake,6.0,3.14,birthday order
+2026-06-19,Lemon Cupcake,1.0,3.24,birthday order
+2026-03-26,Vanila,4.0,$2.68,gift box
+2026-06-15,Vanilla,7.0,2.62,birthday order
+2026-03-10,Funfetti,10.0,$3.04,
+05/27/2026,Chocolate Cupcake,5.0,$2.98,wholesale
+2026-03-17,chocolate,6.0,$3.0,gift box
+01/05/2026,Carrot Cake Cupcake,3.0,3.73,wholesale
+2026-02-14,Chocolate Cupcake,9.0,$3.01,
+2026-04-04,RedVelvet,12.0,3.51,
+2026-02-18,Vanila,1.0,2.79,birthday order
+2026-02-17,Carrot,4.0,$3.81,birthday order
+04/06/2026,Red velvet ,3.0,$3.46,wholesale
+05/16/2026,Chocolate,11.0,$2.93,
+2026-03-18,Carrot,11.0,3.77,birthday order
+01/24/2026,Funfetti Cupcake,5.0,2.93,
+2026-03-30,Carrot,2.0,$3.78,
+2026-03-17,Fun Fetti,10.0,2.99,
+2026-02-09,Lemon,12.0,$3.29,birthday order
+2026-04-17,Funfetti Cupcake,9.0,$3.09,wholesale
+2026-03-30,Fun Fetti,7.0,$3.05,
+2026-04-19,Lemon,8.0,3.29,gift box
+2026-01-30,carrot cake,8.0,$3.77,gift box
+2026-06-29,Fun Fetti,6.0,2.98,wholesale
+2026-04-10,Chocolate Cupcake,9.0,35.0,
+2026-04-17,Carrot,12.0,$3.8,gift box
+05/19/2026,Vanilla Cupcake,12.0,$2.74,
+2026-04-20,Carrot Cake Cupcake,6.0,$3.73,
+2026-05-25,chocolate,,2.89,wholesale
+2026-03-25,Carrot Cake,,$3.76,birthday order
+2026-05-04,Vanila,8.0,$2.77,
+2026-02-14,Red velvet ,7.0,3.52,birthday order
+2026-02-27,Vanilla,,$2.78,birthday order
+2026-01-19,Red Velvet Cupcake,6.0,$3.55,birthday order
+2026-04-01,Carrot Cake Cupcake,5.0,$3.77,birthday order
+2026-05-17,Red Velvet Cupcake,8.0,$3.58,
+2026-04-14,funfetti,8.0,$3.07,wholesale
+2026-01-20,Choc,6.0,$2.96,gift box
+2026-05-05,Funfetti Cupcake,9.0,$3.04,
+04/14/2026,Vanilla,7.0,$2.75,birthday order
+2026-04-16,carrot cake,10.0,3.67,gift box
+2026-06-16,Red Velvet,4.0,3.47,gift box
+01/30/2026,carrot cake,11.0,3.73,
+2026-03-06,Red Velvet Cupcake,1.0,3.52,
+2026-06-11,red velvet,2.0,$3.49,gift box
+2026-03-04,Lemon Cupcake,10.0,3.24,birthday order
+2026-05-14,Choc,12.0,3.02,gift box
+2026-02-05,Choc,7.0,$3.04,gift box
+2026-01-13,funfetti,11.0,2.9,gift box
+2026-04-14,Carrot,12.0,3.78,
+2026-05-16,Fun Fetti,10.0,3.07,birthday order
+05/23/2026,Vanilla,7.0,$2.86,gift box
+2026-02-08,Lemon Cupcake,4.0,$3.21,gift box
+2026-03-22,lemon,5.0,$3.23,
+2026-02-09,chocolate,3.0,2.99,birthday order
+2026-04-02,Vanila,1.0,$2.74,wholesale
+2026-01-30,red velvet,1.0,$3.49,wholesale
+2026-05-20,carrot cake,,3.79,gift box
+2026-01-27,,11.0,3.0,gift box
+2026-02-02,Carrot,2.0,$28.5,gift box
+2026-04-06,lemon,7.0,$3.23,gift box
+2026-05-26,red velvet,4.0,3.58,
+2026-04-08,Funfetti Cupcake,3.0,$3.11,
+2026-05-03,Carrot Cake Cupcake,7.0,3.7,birthday order
+2026-05-31,Funfetti,9.0,$2.95,
+2026-06-07,Funfetti,10.0,$2.93,gift box
+2026-03-01,Red Velvet Cupcake,5.0,$3.58,gift box
+2026-04-08,lemon,,$3.4,wholesale
+2026-02-09,Lemon Cupcake,11.0,3.24,
+2026-01-01,Red Velvet Cupcake,8.0,$3.43,birthday order
+2026-01-20,lemon,4.0,3.19,birthday order
+04/14/2026,lemon,7.0,$3.33,
+2026-03-09,Lemon,2.0,$3.2,gift box
+05/23/2026,Funfetti Cupcake,12.0,$3.02,gift box
+2026-03-03,Chocolate,2.0,3.04,
+05/22/2026,Lemon,11.0,3.33,
+2026-05-29,vanilla,2.0,2.82,wholesale
+2026-02-24,Vanila,6.0,$2.75,wholesale
+2026-04-28,Vanilla,1.0,2.74,
+2026-03-16,RedVelvet,4.0,3.5,birthday order
+04/10/2026,Lemon,5.0,$3.24,wholesale
+2026-06-19,lemon,10.0,3.27,birthday order
+2026-01-09,carrot cake,11.0,3.71,
+2026-06-12,Lemon Cupcake,4.0,3.28,wholesale
+02/16/2026,Vanilla,8.0,2.66,
+01/19/2026,Vanilla Cupcake,8.0,2.71,
+2026-04-02,chocolate,2.0,3.1,
+2026-06-30,Red Velvet Cupcake,11.0,$3.41,
+2026-01-16,Carrot,9.0,$3.69,
+2026-03-18,funfetti,8.0,$0.03,
+2026-06-25,Funfetti,3.0,$3.0,birthday order
+03/12/2026,RedVelvet,5.0,$3.55,gift box
+2026-06-15,Carrot Cake,5.0,3.73,gift box
+2026-04-23,Vanilla,7.0,2.72,
+2026-05-05,Red Velvet,9.0,3.5,
+05/02/2026,Red Velvet,2.0,3.51,wholesale
+2026-02-18,Chocolate Cupcake,1.0,$3.02,wholesale
+2026-02-21,chocolate,5.0,3.03,
+2026-01-07,funfetti,8.0,$2.94,gift box
+04/02/2026,chocolate,11.0,$3.01,wholesale
+01/19/2026,Lemon,9.0,$3.24,
+2026-06-25,Chocolate,12.0,3.02,
+2026-02-08,Lemon,3.0,3.23,wholesale
+2026-01-20,Carrot Cake,7.0,3.78,birthday order
+2026-03-09,Carrot Cake Cupcake,4.0,3.76,
+2026-05-30,Funfetti,5.0,$2.98,
+2026-05-28,Red velvet ,3.0,3.54,birthday order
+2026-04-04,Vanila,7.0,2.84,gift box
+03/29/2026,Funfetti,1.0,$3.0,
+02/25/2026,Vanilla Cupcake,11.0,$2.73,wholesale
+04/28/2026,funfetti,8.0,$2.97,wholesale
+2026-06-10,Funfetti Cupcake,9.0,$2.95,wholesale
+2026-02-25,Red velvet ,12.0,$3.49,wholesale
+03/15/2026,Vanila,11.0,$2.72,gift box
+2026-05-10,chocolate,3.0,$2.94,wholesale
+2026-02-08,Lemon,8.0,3.31,wholesale
+2026-06-12,Red Velvet,12.0,3.51,
+05/29/2026,carrot cake,12.0,3.75,birthday order
+2026-05-11,Vanilla,8.0,2.74,wholesale
+2026-06-07,Fun Fetti,12.0,2.97,birthday order
+06/02/2026,Fun Fetti,8.0,$2.98,wholesale
+2026-04-25,funfetti,2.0,2.92,gift box
+2026-04-11,Vanila,9.0,$2.66,wholesale
+2026-05-22,vanilla,11.0,2.72,birthday order
+2026-02-15,Funfetti,12.0,3.05,
+2026-01-05,Vanilla,6.0,$2.75,
+2026-04-08,lemon,5.0,$3.28,wholesale
+2026-06-15,Carrot Cake Cupcake,4.0,$3.77,
+2026-02-24,Carrot,3.0,$3.79,
+2026-04-11,Carrot Cake Cupcake,4.0,3.74,gift box
+2026-04-12,funfetti,2.0,$3.0,
+03/26/2026,Lemon,1.0,3.26,gift box
+2026-05-10,Lemon Cupcake,5.0,$3.37,
+2026-06-25,funfetti,8.0,2.96,
+2026-04-23,red velvet,11.0,$3.5,wholesale
+2026-04-07,Chocolate,9.0,$2.98,birthday order
+2026-02-11,Lemon,1.0,3.31,
+02/06/2026,Lemon Cupcake,3.0,$3.15,birthday order
+2026-04-26,Vanilla Cupcake,5.0,2.75,gift box
+2026-03-10,Vanilla,6.0,2.67,gift box
+2026-01-29,chocolate,11.0,3.01,wholesale
+2026-03-03,lemon,2.0,$3.22,
+04/06/2026,Lemon,10.0,3.25,
+2026-02-22,vanilla,6.0,2.78,birthday order
+2026-03-05,lemon,4.0,3.27,wholesale
+03/16/2026,RedVelvet,12.0,$3.61,
+2026-05-21,vanilla,7.0,2.77,gift box
+2026-02-24,chocolate,11.0,$3.1,gift box
+2026-04-06,Vanila,8.0,2.65,wholesale
+2026-01-06,Chocolate,3.0,2.95,wholesale
+2026-03-22,chocolate,8.0,2.96,
+2026-01-24,Chocolate,11.0,$3.01,wholesale
+01/31/2026,Lemon Cupcake,,3.25,
+2026-01-03,RedVelvet,8.0,$3.47,
+2026-04-08,Vanilla Cupcake,6.0,$2.77,
+2026-04-08,Lemon,6.0,3.19,wholesale
+2026-01-11,Red Velvet,3.0,$3.53,wholesale
+2026-03-29,Chocolate,7.0,2.95,birthday order
+2026-05-19,lemon,2.0,$3.18,
+2026-03-06,Carrot Cake,11.0,$3.65,gift box
+02/02/2026,funfetti,4.0,3.04,birthday order
+2026-02-23,chocolate,8.0,$3.0,birthday order
+2026-03-03,red velvet,10.0,3.52,wholesale
+2026-05-14,Carrot Cake Cupcake,3.0,3.72,wholesale
+2026-02-10,Lemon Cupcake,9.0,$3.23,gift box
+2026-03-05,Vanilla,7.0,$2.63,birthday order
+2026-01-20,Funfetti,1.0,$2.97,wholesale
+2026-04-21,Carrot Cake,2.0,3.78,
+2026-01-26,chocolate,5.0,3.0,
+2026-01-07,Lemon,5.0,$3.22,
+02/05/2026,Choc,11.0,$3.01,gift box
+2026-05-17,Funfetti,4.0,$2.96,
+2026-04-03,funfetti,5.0,3.01,gift box
+2026-04-03,vanilla,7.0,$2.73,birthday order
+2026-03-17,Lemon,3.0,$3.13,gift box
+2026-01-02,Funfetti,12.0,$2.96,
+2026-03-08,Choc,3.0,$3.07,
+05/27/2026,Chocolate Cupcake,5.0,$2.98,wholesale
+04/24/2026,Carrot Cake Cupcake,9.0,3.76,wholesale
+2026-05-03,lemon,3.0,3.3,
+2026-02-05,RedVelvet,8.0,3.46,
+2026-05-04,Vanilla,4.0,2.76,gift box
+2026-05-14,Choc,12.0,3.02,gift box
+01/14/2026,Vanila,6.0,$2.79,
+2026-04-12,Vanila,4.0,2.69,wholesale
+2026-03-29,Lemon,4.0,3.25,wholesale
+2026-05-14,Red Velvet Cupcake,11.0,$3.5,birthday order
+2026-06-16,Carrot,5.0,3.76,gift box
+2026-03-12,Carrot Cake Cupcake,1.0,$3.76,birthday order
+2026-02-07,red velvet,5.0,$3.5,gift box
+2026-04-25,Choc,12.0,3.02,birthday order
+04/14/2026,Fun Fetti,11.0,2.95,birthday order
+2026-02-15,Choc,,$2.97,wholesale
+2026-01-27,Red Velvet,6.0,$3.47,
+2026-06-12,Funfetti,5.0,$2.96,
+2026-01-30,Choc,2.0,$3.08,birthday order
+2026-02-27,carrot cake,8.0,$3.72,
+03/08/2026,Choc,1.0,$3.0,birthday order
+2026-05-14,Vanila,4.0,2.75,gift box
+2026-01-09,Carrot,7.0,$3.75,wholesale
+2026-02-14,Funfetti Cupcake,2.0,$3.03,gift box
+02/12/2026,Carrot Cake,11.0,$3.79,birthday order
+2026-01-28,Red Velvet,,3.49,
+2026-06-23,funfetti,6.0,3.07,
+2026-06-19,Chocolate,1.0,3.02,
+2026-03-12,Lemon,12.0,3.23,
+2026-01-26,Red velvet ,1.0,$3.44,birthday order
+2026-05-12,Red velvet ,8.0,3.43,gift box
+2026-04-16,Fun Fetti,8.0,3.02,birthday order
+2026-06-28,lemon,2.0,$3.24,gift box
+2026-05-24,Lemon Cupcake,5.0,3.36,wholesale
+2026-05-23,vanilla,3.0,2.7,
+2026-05-10,Chocolate,6.0,$3.0,wholesale
+2026-02-22,Carrot Cake,6.0,3.78,
+2026-05-05,chocolate,12.0,$3.0,birthday order
+2026-04-17,,7.0,$3.44,wholesale
+2026-03-21,Vanila,1.0,2.78,gift box
+2026-05-27,Carrot,2.0,3.76,
+2026-03-10,Carrot Cake Cupcake,5.0,$3.79,wholesale
+2026-03-18,Lemon Cupcake,12.0,$3.21,
+2026-03-19,vanilla,7.0,$2.72,gift box
+2026-04-28,Fun Fetti,12.0,$3.03,
+2026-05-19,Funfetti,11.0,$3.02,
+2026-04-23,Carrot,10.0,$3.69,wholesale
+2026-05-13,RedVelvet,2.0,3.49,birthday order
+2026-05-08,vanilla,10.0,2.79,gift box
+2026-02-05,Funfetti Cupcake,3.0,$3.02,
+2026-02-26,,6.0,$2.93,
+2026-02-21,carrot cake,11.0,3.71,
+2026-04-30,Lemon Cupcake,10.0,$3.25,birthday order
+2026-06-28,Carrot Cake,4.0,3.75,
+2026-05-04,Chocolate Cupcake,5.0,$3.05,birthday order
+2026-02-18,RedVelvet,7.0,$3.43,wholesale
+2026-03-01,Lemon Cupcake,3.0,$3.3,
+2026-03-19,Lemon Cupcake,2.0,3.18,
+2026-02-13,RedVelvet,4.0,$3.53,
+2026-01-08,Lemon,9.0,$3.28,
+03/18/2026,lemon,2.0,$3.2,wholesale
+2026-04-13,Vanilla,4.0,$2.78,birthday order
+02/20/2026,chocolate,11.0,$2.95,wholesale
+2026-05-31,Chocolate Cupcake,2.0,$2.9,gift box
+2026-03-12,lemon,8.0,3.22,birthday order
+02/25/2026,Carrot Cake Cupcake,6.0,$3.72,gift box
+2026-06-29,Funfetti,4.0,3.06,wholesale
+2026-05-10,Chocolate Cupcake,9.0,2.96,
+2026-06-12,Choc,11.0,$2.95,
+2026-01-21,RedVelvet,4.0,$3.45,
+2026-02-17,Red velvet ,6.0,3.48,wholesale
+2026-03-18,Funfetti,3.0,$3.01,
+04/14/2026,Funfetti Cupcake,5.0,3.09,wholesale
+2026-06-16,Funfetti Cupcake,4.0,3.03,
+2026-04-11,Choc,3.0,$3.0,gift box
+05/22/2026,carrot cake,2.0,$3.74,
+2026-03-31,Vanila,8.0,$2.78,gift box
+2026-05-30,Funfetti Cupcake,2.0,2.97,
+2026-04-08,Carrot,8.0,3.76,
+2026-04-17,Carrot Cake,4.0,$3.77,wholesale
+2026-01-03,Lemon,11.0,$3.34,
+2026-06-29,Red velvet ,12.0,3.57,birthday order
+2026-02-05,Vanila,3.0,$2.67,wholesale
+03/15/2026,Choc,2.0,3.02,
+2026-05-21,Carrot Cake,5.0,3.78,gift box
+2026-02-22,Carrot,,3.75,
+2026-02-10,Red Velvet Cupcake,6.0,3.44,birthday order
+01/23/2026,,1.0,3.74,
+2026-04-22,Red Velvet,,3.62,
+2026-02-19,Red Velvet,10.0,3.55,wholesale
+2026-06-16,Choc,10.0,3.02,
+2026-05-08,Carrot Cake,11.0,3.74,wholesale
+2026-01-06,red velvet,11.0,3.57,
+2026-03-28,Vanilla Cupcake,12.0,2.7,
+2026-06-13,Red Velvet,12.0,3.52,wholesale
+2026-04-10,vanilla,4.0,2.65,
+2026-05-24,Red velvet ,5.0,3.54,wholesale
+2026-04-29,Funfetti,5.0,3.05,
+02/26/2026,Red velvet ,8.0,$3.47,gift box
+2026-05-27,funfetti,2.0,3.03,
+04/18/2026,Funfetti Cupcake,2.0,3.1,gift box
+03/05/2026,,6.0,$3.07,gift box
+2026-04-05,Funfetti Cupcake,8.0,$3.0,
+2026-03-20,funfetti,,$2.99,
+2026-05-01,Carrot,10.0,$3.71,
+2026-03-22,vanilla,10.0,$2.71,birthday order
+2026-06-25,Carrot Cake,,$3.71,
+2026-01-05,Fun Fetti,2.0,$3.04,
+2026-02-24,Red velvet ,5.0,$3.46,
+2026-01-29,Vanilla Cupcake,9.0,2.72,
+2026-06-25,red velvet,3.0,$3.56,gift box
+2026-06-20,Chocolate Cupcake,7.0,2.98,
+2026-02-16,vanilla,9.0,$2.78,birthday order
+2026-02-09,vanilla,12.0,2.77,
+2026-04-17,Fun Fetti,,$3.08,gift box
+2026-02-03,Lemon,4.0,$3.23,
+2026-01-18,Red velvet ,5.0,$3.55,
+2026-02-04,Fun Fetti,8.0,2.97,
+2026-01-25,,10.0,3.49,
+06/09/2026,Lemon Cupcake,2.0,$3.3,wholesale
+2026-02-18,Red Velvet,11.0,3.43,gift box
+2026-04-25,Chocolate,3.0,$2.99,
+2026-06-14,Vanilla Cupcake,7.0,2.74,wholesale
+03/17/2026,Red Velvet Cupcake,5.0,$3.54,wholesale
+2026-03-31,red velvet,9.0,3.56,
+2026-01-21,Carrot Cake Cupcake,9.0,3.77,wholesale
